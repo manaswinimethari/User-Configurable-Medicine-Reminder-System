@@ -24,11 +24,11 @@ User Configurable Medicine Reminder System is a customizable application that he
 
 # 🌐Overview
 
-The **User-Configurable Medicine Reminder System** is a smart embedded solution designed to assist users in managing their medication schedules efficiently. Built using the **LPC2148 ARM7 microcontroller**, the system allows users to configure medicine timings according to their individual needs through a **4×4 Matrix Keypad**. Unlike conventional reminder systems with fixed alarms, it offers flexibility by enabling schedules to be updated whenever required.
+The **User-Configurable Medicine Reminder System** is a smart embedded application developed using the **LPC2148 ARM7 microcontroller** to help users manage their medication schedules efficiently. It allows users to set and modify medicine timings through a **4×4 Matrix Keypad**, making the system flexible and easy to use.
 
-The system continuously monitors the **Real-Time Clock (RTC)** and compares the current time with the stored medicine schedules. When a scheduled time is reached, it instantly notifies the user by displaying a reminder on the **16×2 LCD** and activating a buzzer. The reminder can be acknowledged using a dedicated switch, after which the system resumes normal monitoring for the next scheduled event.
+The system continuously monitors the **Real-Time Clock (RTC)** and compares the current time with the stored medicine schedules. When a scheduled time is reached, it displays a reminder on the **16×2 LCD** and activates a **buzzer** to notify the user. The alert can be acknowledged using a dedicated switch.
 
-This project demonstrates the practical integration of real-time clock interfacing, keypad input, LCD communication, external interrupts, and buzzer control using **Embedded C**, providing a reliable and user-friendly medication reminder solution.
+Developed using **Embedded C**, this project integrates RTC, LCD, keypad, external interrupts, and buzzer control into a single real-time embedded application. It provides a reliable, user-friendly, and practical solution for improving medication adherence.
 
 - 💊 Personalized medicine reminders.
 - ⚙️ Built with LPC2148 ARM7 & Embedded C.
