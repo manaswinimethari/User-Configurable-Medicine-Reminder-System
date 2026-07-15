@@ -60,12 +60,10 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 
 # ⚙️Complete System Architecture
 
-<p align="center">
-  <img src="images/system_architecture.png" alt="Complete System Architecture" width="1000">
-</p>
+## 🏗️ Complete System Architecture
 
 <p align="center">
-  <b>Figure 1.</b> Complete System Architecture of the User-Configurable Medicine Reminder System using LPC2148 ARM7.
+  <img src="./images/system_architecture.png" alt="Complete System Architecture" width="900">
 </p>
 
 # 🔌Hardware Components
