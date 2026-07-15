@@ -21,17 +21,17 @@
 
 </p>
 User Configurable Medicine Reminder System is a customizable application that helps users manage medication schedules with personalized reminders. It supports configurable dosage timings, notifications, medication tracking, and schedule management, improving adherence while providing a scalable foundation for healthcare and wellness applications.
-## 📖 Overview
-## ✨ Features
-## 🔧 Hardware Components
-## 💻 Software Requirements
-## 🏗️ Block Diagram
-## 🔌 Circuit Diagram
-## ⚙️ Working Principle
-## 🚀 Installation
-## ▶️ Usage
-## 📷 Project Images
-## 📊 Results
-## 🚧 Future Enhancements
-## 📜 License
-## 👨‍💻 Author
+# overview
+# ✨Features
+# Hardware Components
+# 💻Software Requirements
+# 🏗️Block Diagram
+# 🔌Circuit Diagram
+# ⚙️Working Principle
+# 🚀Installation
+# ▶️Usage
+# 📷Project Images
+# 📊Results
+# 🚧Future Enhancements
+# 📜License
+# 👨‍💻Author
