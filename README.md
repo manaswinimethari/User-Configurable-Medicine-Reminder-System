@@ -33,7 +33,7 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 - 💊 Personalized medicine reminders.
 - ⚙️ Built with LPC2148 ARM7 & Embedded C.
 - ⏰ Accurate RTC monitoring with buzzer alerts.
-
+  
 # 🎯Objective
 
 - ⏰ Display the current date and time using the Real-Time Clock (RTC).
@@ -46,6 +46,17 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 - 🔄 Support multiple medicine schedules with real-time monitoring.
 - ⚙️ Integrate RTC, LCD, keypad, buzzer, and interrupts into a single embedded system.
 - ❤️ Provide a reliable and user-friendly solution to improve medication adherence.
+
+# ✨Key Features
+
+- 💊 User-configurable medicine schedules
+- ⏰ RTC-based real-time monitoring
+- ⌨️ 4×4 Matrix Keypad for easy input
+- 📺 16×2 LCD for date, time, and reminders
+- 🔔 Buzzer alerts for medicine notifications
+- ⚡ External Interrupts (EINT0 & EINT1) for quick user interaction
+- 🔄 Continuous monitoring of medicine timings
+- 🛠️ Developed using Embedded C on LPC2148 ARM7
 
 # ⚙️Complete System Architecture
 
