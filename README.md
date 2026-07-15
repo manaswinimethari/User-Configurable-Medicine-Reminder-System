@@ -1,4 +1,4 @@
-# User-Configurable Medicine Reminder System
+# 💊User-Configurable Medicine Reminder System
 <p align="center">
 
 ![Embedded System](https://img.shields.io/badge/EMBEDDED%20SYSTEM-555555?style=for-the-badge&logoColor=white)
