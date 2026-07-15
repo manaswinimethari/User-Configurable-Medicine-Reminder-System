@@ -60,3 +60,25 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 
 # ⚙️Complete System Architecture
 
+## 🏗️ Complete System Architecture
+
+<p align="center">
+  <img src="images/system_architecture.png" alt="Complete System Architecture" width="900"/>
+</p>
+
+<p align="center">
+  <b>Figure:</b> Complete System Architecture of the User-Configurable Medicine Reminder System
+</p>
+## 🏗️ Complete System Architecture
+
+<p align="center">
+  <img src="system_architecture.png" alt="Complete System Architecture" width="900"/>
+</p>
+## 🏗️ Complete System Architecture
+
+<p align="center">
+  <a href="images/system_architecture.png">
+    <img src="images/system_architecture.png" alt="Complete System Architecture" width="900"/>
+  </a>
+</p>
+# 🔌Hardware Components
