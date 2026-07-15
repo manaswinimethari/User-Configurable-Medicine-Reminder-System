@@ -60,6 +60,6 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 
 # ⚙️Complete System architecture 
 
-
+Project Gallery/IMG-20260716-WA0001.jpg
 
 # 🔌Hardware Component
