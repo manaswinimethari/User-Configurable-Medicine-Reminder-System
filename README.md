@@ -58,12 +58,7 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 - 🔄 Continuous monitoring of medicine timings
 - 🛠️ Developed using Embedded C on LPC2148 ARM7
 
-# ⚙️Complete System Architecture
+# ⚙️Complete System architecture 
 
-## 🏗️ Complete System Architecture
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/images/system_architecture.jpg" width="900">
-</p>
 
 # 🔌Hardware Component
