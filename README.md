@@ -24,4 +24,8 @@ User Configurable Medicine Reminder System is a customizable application that he
 
 # 🌐Overview
 
-Your project description...
+The **User-Configurable Medicine Reminder System** is an embedded system developed using the **LPC2148 ARM7 microcontroller** to help users take their medicines on time. Unlike conventional fixed reminder systems, this project allows users to dynamically configure medicine schedules using a **4×4 Matrix Keypad**, making it flexible and user-friendly.
+
+The system continuously monitors the **Real-Time Clock (RTC)** and compares the current time with the stored medicine schedules. When a scheduled time is reached, it alerts the user by displaying a reminder message on the **16×2 LCD** and activating a **buzzer**. The reminder can be acknowledged using a dedicated switch, after which the system returns to normal monitoring mode.
+
+The project demonstrates the integration of **RTC, LCD, Matrix Keypad, External Interrupts (EINT0 & EINT1), and Buzzer Control** using **Embedded C**, making it a practical application of real-time embedded system design for healthcare assistance.
