@@ -60,8 +60,6 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 
 # ⚙️Complete System Architecture
 
-## 🏗️ Complete System Architecture
-
 <p align="center">
   <img src="images/system_architecture.png" alt="Complete System Architecture" width="1000">
 </p>
