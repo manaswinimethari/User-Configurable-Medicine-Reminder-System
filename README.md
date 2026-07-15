@@ -46,3 +46,6 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 - 🔄 Support multiple medicine schedules with real-time monitoring.
 - ⚙️ Integrate RTC, LCD, keypad, buzzer, and interrupts into a single embedded system.
 - ❤️ Provide a reliable and user-friendly solution to improve medication adherence.
+
+# ⚙️Complete System Architecture
+
