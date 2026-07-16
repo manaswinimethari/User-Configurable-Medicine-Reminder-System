@@ -100,3 +100,4 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 | **Embedded C** | Programming language used for firmware development. |
 | **Proteus (Optional)** | Circuit simulation and verification before hardware implementation. |
 | **Windows 10/11** | Development environment for the required software tools. |
+
