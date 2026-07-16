@@ -85,4 +85,18 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 
 # ⚙️Hardware Design Image
 
+![image alt](https://github.com/manaswinimethari/User-Configurable-Medicine-Reminder-System/blob/d2c58508bcd29cb9b9f080495d14e45ceb0c205e/Project%20Gallery/IMG-20260715-WA0020.jpg)
+
+# 🔄System Workflow Image
+
 ![image alt](
+
+# 💻Software Requirements
+
+| Software | Purpose |
+|----------|---------|
+| **Keil μVision 4/5** | Writing, compiling, and debugging Embedded C code. |
+| **Flash Magic** | Uploading the compiled HEX file to the LPC2148 microcontroller. |
+| **Embedded C** | Programming language used for firmware development. |
+| **Proteus (Optional)** | Circuit simulation and verification before hardware implementation. |
+| **Windows 10/11** | Development environment for the required software tools. |
