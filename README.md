@@ -75,3 +75,5 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 | **5V Active Buzzer** | Produces an audible alert at the scheduled medicine time. |
 | **5V Power Supply** | Provides regulated power to the complete system. |
 
+# hardware setup
+
