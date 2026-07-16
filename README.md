@@ -1,4 +1,4 @@
-# 💊User-Configurable Medicine Reminder System
+# 💊 User-Configurable Medicine Reminder System
 <p align="center">
 
 ![Embedded System](https://img.shields.io/badge/EMBEDDED%20SYSTEM-555555?style=for-the-badge&logoColor=white)
@@ -22,7 +22,7 @@
 </p>
 User Configurable Medicine Reminder System is a customizable application that helps users manage medication schedules with personalized reminders. It supports configurable dosage timings, notifications, medication tracking, and schedule management, improving adherence while providing a scalable foundation for healthcare and wellness applications.
 
-# 🌐Overview
+# 🌐 Overview
 
 The **User-Configurable Medicine Reminder System** is a smart embedded application developed using the **LPC2148 ARM7 microcontroller** to help users manage their medication schedules efficiently. It allows users to set and modify medicine timings through a **4×4 Matrix Keypad**, making the system flexible and easy to use.
 
@@ -47,7 +47,7 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 - ⚙️ Integrate RTC, LCD, keypad, buzzer, and interrupts into a single embedded system.
 - ❤️ Provide a reliable and user-friendly solution to improve medication adherence.
 
-# ✨Key Features
+# ✨ Key Features
 
 - 💊 User-configurable medicine schedules
 - ⏰ RTC-based real-time monitoring
@@ -58,11 +58,11 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 - 🔄 Continuous monitoring of medicine timings
 - 🛠️ Developed using Embedded C on LPC2148 ARM7
 
-# ⚙️Complete System architecture 
+# ⚙️ Complete System architecture 
 
 ![image alt](https://github.com/manaswinimethari/User-Configurable-Medicine-Reminder-System/blob/2eddd3ac8a8940a4a3ad678e206579052dac54b8/Project%20Gallery/IMG-20260716-WA0001.jpg)
 
-# 🔌Hardware Component
+# 🔌 Hardware Component
 
 | Component | Purpose |
 |----------|---------|
@@ -75,7 +75,7 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 | **5V Active Buzzer** | Produces an audible alert at the scheduled medicine time. |
 | **5V Power Supply** | Provides regulated power to the complete system. |
 
-# 📂block diagram 
+# 📂 block diagram 
 
 ![image alt](https://github.com/manaswinimethari/User-Configurable-Medicine-Reminder-System/blob/7e33fabac57c3e71a11e3315c1a2b7b704b182d8/Project%20Gallery/IMG-20260715-WA0017.jpg)
 
@@ -84,11 +84,11 @@ The block diagram illustrates the overall architecture of the User-Configurable 
 
 ![image alt](https://github.com/manaswinimethari/User-Configurable-Medicine-Reminder-System/blob/d2c58508bcd29cb9b9f080495d14e45ceb0c205e/Project%20Gallery/IMG-20260715-WA0020.jpg)
 
-# 🔄System Workflow Image
+# 🔄 System Workflow Image
 
 ![image alt](https://github.com/manaswinimethari/User-Configurable-Medicine-Reminder-System/blob/5d34c2e23f813fe4ba22c760efbcfc9d57167c37/Project%20Gallery/IMG-20260715-WA0021.jpg)
 
-# 💻Software Requirements
+# 💻 Software Requirements
 
 | Software | Purpose |
 |----------|---------|
@@ -98,7 +98,7 @@ The block diagram illustrates the overall architecture of the User-Configurable 
 | **Proteus (Optional)** | Circuit simulation and verification before hardware implementation. |
 | **Windows 10/11** | Development environment for the required software tools. |
 
-# 🔩hardware setup
+# 🔩 hardware setup
 
 ![image alt](https://github.com/manaswinimethari/User-Configurable-Medicine-Reminder-System/blob/413f2788f8db74bb35bac2817afc38b91274fbc3/Project%20Gallery/file_00000000d5247208a7bbcf86418c9a11.png)
 
