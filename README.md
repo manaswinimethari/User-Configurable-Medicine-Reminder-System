@@ -75,10 +75,6 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 | **5V Active Buzzer** | Produces an audible alert at the scheduled medicine time. |
 | **5V Power Supply** | Provides regulated power to the complete system. |
 
-# hardware setup
-
-![image alt](https://github.com/manaswinimethari/User-Configurable-Medicine-Reminder-System/blob/413f2788f8db74bb35bac2817afc38b91274fbc3/Project%20Gallery/file_00000000d5247208a7bbcf86418c9a11.png)
-
 # 📂block diagram 
 
 ![image alt](https://github.com/manaswinimethari/User-Configurable-Medicine-Reminder-System/blob/7e33fabac57c3e71a11e3315c1a2b7b704b182d8/Project%20Gallery/IMG-20260715-WA0017.jpg)
@@ -89,7 +85,7 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 
 # 🔄System Workflow Image
 
-![image alt](
+![image alt](https://github.com/manaswinimethari/User-Configurable-Medicine-Reminder-System/blob/5d34c2e23f813fe4ba22c760efbcfc9d57167c37/Project%20Gallery/IMG-20260715-WA0021.jpg)
 
 # 💻Software Requirements
 
@@ -100,4 +96,8 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 | **Embedded C** | Programming language used for firmware development. |
 | **Proteus (Optional)** | Circuit simulation and verification before hardware implementation. |
 | **Windows 10/11** | Development environment for the required software tools. |
+
+# 🔩hardware setup
+
+![image alt](https://github.com/manaswinimethari/User-Configurable-Medicine-Reminder-System/blob/413f2788f8db74bb35bac2817afc38b91274fbc3/Project%20Gallery/file_00000000d5247208a7bbcf86418c9a11.png)
 
