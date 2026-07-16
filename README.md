@@ -78,3 +78,7 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 # hardware setup
 
 ![image alt](https://github.com/manaswinimethari/User-Configurable-Medicine-Reminder-System/blob/413f2788f8db74bb35bac2817afc38b91274fbc3/Project%20Gallery/file_00000000d5247208a7bbcf86418c9a11.png)
+
+# block diagram 
+
+![image alt](
