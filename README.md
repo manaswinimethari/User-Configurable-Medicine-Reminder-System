@@ -79,6 +79,7 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 
 ![image alt](https://github.com/manaswinimethari/User-Configurable-Medicine-Reminder-System/blob/7e33fabac57c3e71a11e3315c1a2b7b704b182d8/Project%20Gallery/IMG-20260715-WA0017.jpg)
 
+The block diagram illustrates the overall architecture of the User-Configurable Medicine Reminder System. The LPC2148 ARM7 microcontroller acts as the central controller, interfacing with the RTC module, 4×4 Matrix Keypad, LCD display, buzzer, and external interrupt switches. The RTC continuously provides the current date and time, while the keypad enables users to configure medicine schedules. When the scheduled time matches the RTC, the microcontroller activates the buzzer and displays a reminder on the LCD. The system is powered by a regulated 3.3V power supply to ensure stable operation.
 # ⚙️Hardware Design Image
 
 ![image alt](https://github.com/manaswinimethari/User-Configurable-Medicine-Reminder-System/blob/d2c58508bcd29cb9b9f080495d14e45ceb0c205e/Project%20Gallery/IMG-20260715-WA0020.jpg)
