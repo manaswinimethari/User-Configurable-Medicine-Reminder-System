@@ -64,16 +64,14 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 
 # 🔌Hardware Component
 
-| Hardware Component | Purpose |
-|--------------------|---------|
-| **LPC2148 ARM7 Microcontroller** | Controls the entire system, processes user inputs, compares RTC time with stored medicine schedules, and controls the LCD and buzzer. |
-| **DS1307 RTC Module** | Maintains accurate real-time date and time, even during power loss using a backup battery. |
-| **16×2 LCD Display** | Displays the current time, menu options, medicine reminders, and system status. |
-| **4×4 Matrix Keypad** | Allows users to configure the RTC time and medicine reminder schedules. |
-| **Switch-1 (EINT0)** | Enters configuration mode to set or modify the current time and medicine schedules. |
-| **Switch-2 (EINT1)** | Acknowledges the reminder and stops the buzzer after the alert is displayed. |
-| **5V Active Buzzer** | Generates an audible alert when the scheduled medicine time is reached. |
-| **5V Regulated Power Supply** | Supplies stable power to the microcontroller and all peripherals. |
-| **Connecting Wires** | Connects all hardware modules together. |
-| **Breadboard / PCB** | Provides a platform for assembling and testing the hardware circuit. |
+| Component | Purpose |
+|----------|---------|
+| **LPC2148 ARM7** | Controls the entire system and manages all peripherals. |
+| **DS1307 RTC Module** | Maintains accurate date and time for reminders. |
+| **16×2 LCD Display** | Shows the current time, menu options, and reminder messages. |
+| **4×4 Matrix Keypad** | Allows users to configure time and medicine schedules. |
+| **Switch-1 (EINT0)** | Enters setup mode for RTC and medicine configuration. |
+| **Switch-2 (EINT1)** | Acknowledges the reminder and stops the buzzer. |
+| **5V Active Buzzer** | Produces an audible alert at the scheduled medicine time. |
+| **5V Power Supply** | Provides regulated power to the complete system. |
 
