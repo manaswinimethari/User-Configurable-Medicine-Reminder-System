@@ -63,3 +63,17 @@ Developed using **Embedded C**, this project integrates RTC, LCD, keypad, extern
 ![image alt](https://github.com/manaswinimethari/User-Configurable-Medicine-Reminder-System/blob/2eddd3ac8a8940a4a3ad678e206579052dac54b8/Project%20Gallery/IMG-20260716-WA0001.jpg)
 
 # 🔌Hardware Component
+
+| Hardware Component | Purpose |
+|--------------------|---------|
+| **LPC2148 ARM7 Microcontroller** | Controls the entire system, processes user inputs, compares RTC time with stored medicine schedules, and controls the LCD and buzzer. |
+| **DS1307 RTC Module** | Maintains accurate real-time date and time, even during power loss using a backup battery. |
+| **16×2 LCD Display** | Displays the current time, menu options, medicine reminders, and system status. |
+| **4×4 Matrix Keypad** | Allows users to configure the RTC time and medicine reminder schedules. |
+| **Switch-1 (EINT0)** | Enters configuration mode to set or modify the current time and medicine schedules. |
+| **Switch-2 (EINT1)** | Acknowledges the reminder and stops the buzzer after the alert is displayed. |
+| **5V Active Buzzer** | Generates an audible alert when the scheduled medicine time is reached. |
+| **5V Regulated Power Supply** | Supplies stable power to the microcontroller and all peripherals. |
+| **Connecting Wires** | Connects all hardware modules together. |
+| **Breadboard / PCB** | Provides a platform for assembling and testing the hardware circuit. |
+
